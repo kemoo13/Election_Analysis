@@ -27,7 +27,7 @@ The analysis of the election show that:
   * The winner of the election was:
   * Diana DeGette with 73.8% of the vote and 272,892 votes.
 
-<img src="Resources/full_chart.png" width="500">  
+<img src="Resources/full_chart.png" width="400">  
 
 ## Election Audit Summary
 The code for this project was written in a way that allows its user to run an analysis on any election data set, making this a valuable script. The code is easily adjusted in order to analyze different electoral data. This is much like refactoring VBA, but easier. In order to adjust this code for any tabular data set, one simply needs to change the source of the code used when initiating the code. 
