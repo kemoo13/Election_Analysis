@@ -32,7 +32,7 @@ The analysis of the election show that:
 ## Election Audit Summary
 The code for this project was written in a way that allows its user to run an analysis on any election data set, making this a valuable script. The code is easily adjusted in order to analyze different electoral data. This is much like refactoring VBA, but easier. In order to adjust this code for any tabular data set, one simply needs to change the source of the code used when initiating the code. 
 
-INSERT PHOTO
+<img src="Resources/file_path.png" width="400">
 
 Two areas that are easily modified are the candidate and county fields. Each one of these are easily adjusted. Both of these fields pull data directly from the CSV file that is sourced in the beginning. The candidate field can be easily modified for various different data sets. The county is able to be modified to similar data such as cities, states, and countries. 
 
