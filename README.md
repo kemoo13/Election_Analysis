@@ -27,7 +27,7 @@ The analysis of the election show that:
   * The winner of the election was:
   * Diana DeGette with 73.8% of the vote and 272,892 votes.
 
-<img src="Resources/2017_table.png" width="500">  
+<img src="Resources/full_chart.png" width="500">  
 
 ## Election Audit Summary
 The code for this project was written in a way that allows its user to run an analysis on any election data set, making this a valuable script. The code is easily adjusted in order to analyze different electoral data. This is much like refactoring VBA, but easier. In order to adjust this code for any tabular data set, one simply needs to change the source of the code used when initiating the code. 
@@ -37,6 +37,8 @@ INSERT PHOTO
 Two areas that are easily modified are the candidate and county fields. Each one of these are easily adjusted. Both of these fields pull data directly from the CSV file that is sourced in the beginning. The candidate field can be easily modified for various different data sets. The county is able to be modified to similar data such as cities, states, and countries. 
 
 INSERT PHOTO OF COUNTY AND CANDIDATE CODE
+
+Another benefit of using Visual Studio Code and Python programming language is being able to easily place 
 
 ## Improvements
 The election committee may possibly think of adjusting the code in order to gain a wider view of the data being analyzed. The committee may think of implementing an additional conditional to determine the candidate vote percentage by county. This way, similarly to the Presidential election, the committee can identify where each candidate is most popular. This election audit and analysis are capable of handling much more data, much of which would be beneficial when trying to understand the data. 
