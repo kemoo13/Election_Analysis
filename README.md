@@ -36,11 +36,11 @@ The code for this project was written in a way that allows its user to run an an
 
 Two areas that are easily modified are the candidate and county fields. Each one of these are easily adjusted. Both of these fields pull data directly from the CSV file that is sourced in the beginning. The candidate field can be easily modified for various different data sets. The county is able to be modified to similar data such as cities, states, and countries. 
 
-## Candidate Field
-<img src="Resources/Candidate_code.PNG" width="400">
+### Candidate Field
+<img src="Resources/Candidate_code.PNG" width="500">
 
-## County Field
-<img src="Resources/county_code.PNG" width="400">
+### County Field
+<img src="Resources/county_code.PNG" width="500">
 
 Another benefit of using Visual Studio Code and Python programming language is being able to easily place 
 
