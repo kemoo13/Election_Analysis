@@ -37,12 +37,13 @@ The code for this project was written in a way that allows its user to run an an
 Two areas that are easily modified are the candidate and county fields. Each one of these are easily adjusted. Both of these fields pull data directly from the CSV file that is sourced in the beginning. The candidate field can be easily modified for various different data sets. The county is able to be modified to similar data such as cities, states, and countries. 
 
 ### Candidate Field
-<img src="Resources/Candidate_code.PNG" width="500">
+<img src="Resources/Candidate_code.PNG" width="700">
 
 ### County Field
-<img src="Resources/county_code.PNG" width="500">
+<img src="Resources/county_code.PNG" width="700">
 
-Another benefit of using Visual Studio Code and Python programming language is being able to easily place 
+Another benefit of using Visual Studio Code and Python programming language is being able to easily commit code to a text file as such:
+<img src="Resources/save_to_txt.PNGG" width="400">
 
 ## Improvements
 The election committee may possibly think of adjusting the code in order to gain a wider view of the data being analyzed. The committee may think of implementing an additional conditional to determine the candidate vote percentage by county. This way, similarly to the Presidential election, the committee can identify where each candidate is most popular. This election audit and analysis are capable of handling much more data, much of which would be beneficial when trying to understand the data. 
