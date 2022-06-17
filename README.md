@@ -43,6 +43,7 @@ Two areas that are easily modified are the candidate and county fields. Each one
 <img src="Resources/county_code.PNG" width="700">
 
 Another benefit of using Visual Studio Code and Python programming language is being able to easily commit code to a text file as such:
+
 <img src="Resources/save_to_txt.PNG" width="600">
 
 ## Improvements
