@@ -43,7 +43,7 @@ Two areas that are easily modified are the candidate and county fields. Each one
 <img src="Resources/county_code.PNG" width="700">
 
 Another benefit of using Visual Studio Code and Python programming language is being able to easily commit code to a text file as such:
-<img src="Resources/save_to_txt.PNG" width="400">
+<img src="Resources/save_to_txt.PNG" width="600">
 
 ## Improvements
 The election committee may possibly think of adjusting the code in order to gain a wider view of the data being analyzed. The committee may think of implementing an additional conditional to determine the candidate vote percentage by county. This way, similarly to the Presidential election, the committee can identify where each candidate is most popular. This election audit and analysis are capable of handling much more data, much of which would be beneficial when trying to understand the data. 
